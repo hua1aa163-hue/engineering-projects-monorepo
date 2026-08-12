@@ -1,0 +1,21 @@
+{
+  "outputSlides": [
+    {"outputSlide":1,"sourceSlide":1,"narrativeRole":"cover","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/7qp4be9c"}]},
+    {"outputSlide":2,"sourceSlide":2,"narrativeRole":"answer-first summary","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/9072xkry"}]},
+    {"outputSlide":3,"sourceSlide":3,"narrativeRole":"definitions and evidence tiers","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/cza94vmx"}]},
+    {"outputSlide":4,"sourceSlide":4,"narrativeRole":"HUD-3000 product profile","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/1cj2d8b6"}]},
+    {"outputSlide":5,"sourceSlide":4,"narrativeRole":"RT-HUD V3 product profile","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"im/q5onm50v"},{"action":"rewrite","sourceElementId":"sh/1cj2d8b6"}]},
+    {"outputSlide":6,"sourceSlide":5,"narrativeRole":"direct competitor landscape","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/dgbulwnm"}]},
+    {"outputSlide":7,"sourceSlide":6,"narrativeRole":"XYZ travel comparison","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"ch/d0rm5gz2"},{"action":"rewrite","sourceElementId":"sh/yhg7epsj"}]},
+    {"outputSlide":8,"sourceSlide":7,"narrativeRole":"direct HUD axis matrix","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"tb/alg7adcj"},{"action":"rewrite","sourceElementId":"sh/cb2tkvap"}]},
+    {"outputSlide":9,"sourceSlide":7,"narrativeRole":"precision-definition comparison","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"tb/alg7adcj"},{"action":"rewrite","sourceElementId":"sh/cb2tkvap"}]},
+    {"outputSlide":10,"sourceSlide":2,"narrativeRole":"Xinxinteng regulatory disclosure","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/9072xkry"}]},
+    {"outputSlide":11,"sourceSlide":7,"narrativeRole":"FullLight patent implementation evidence","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"tb/alg7adcj"},{"action":"rewrite","sourceElementId":"sh/cb2tkvap"}]},
+    {"outputSlide":12,"sourceSlide":7,"narrativeRole":"adjacent motion benchmark","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"tb/alg7adcj"},{"action":"rewrite","sourceElementId":"sh/cb2tkvap"}]},
+    {"outputSlide":13,"sourceSlide":8,"narrativeRole":"public evidence completeness","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"tb/u9sb2p0r"},{"action":"rewrite","sourceElementId":"sh/18byd4zy"}]},
+    {"outputSlide":14,"sourceSlide":9,"narrativeRole":"recommended architecture","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/1cfmhgne"}]},
+    {"outputSlide":15,"sourceSlide":10,"narrativeRole":"phase-one target specification","reuseMode":"duplicate-slide","editTargets":[{"action":"replace","sourceElementId":"tb/32lcre58"},{"action":"rewrite","sourceElementId":"sh/xc3mho32"}]},
+    {"outputSlide":16,"sourceSlide":11,"narrativeRole":"RFI and FAT plan","reuseMode":"duplicate-slide","editTargets":[{"action":"rewrite","sourceElementId":"sh/xcryxg7y"}]}
+  ],
+  "omittedSourceSlides": []
+}

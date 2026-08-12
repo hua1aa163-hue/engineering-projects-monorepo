@@ -1,0 +1,7 @@
+Communication job: enable the HUD test-bench review team to approve a technically traceable path from manual positioning to automated measurement.
+
+Visual direction: preserve the supplied Chief Tech language—coral/red gradient cover, white body slides, strong black Chinese headings, thin black divider rule, blue for key specifications and red for risks/decisions. Use a 16:9, 1600x900 canvas with consistent Chief Tech/confidential footer.
+
+Narrative: conclusion -> scope -> motion/selection -> system and calculation method -> validation -> implementation decisions.
+
+Rebuild rationale: the supplied deck has three near-identical calibration pages and several sparse pages. Their substantive information is retained, but the duplicated pages are replaced by one single-camera/stereo page and one hand-eye/world-coordinate page.

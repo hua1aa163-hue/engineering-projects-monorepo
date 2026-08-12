@@ -1,0 +1,11 @@
+Communication job: By the end, laboratory engineering, quality and procurement stakeholders should be able to approve a traceable HUD test-bench architecture because the deck connects every relevant GB/T 46926—2025 requirement to equipment, coordinate calibration, algorithms and acceptance evidence.
+
+Narrative:
+1. Define the recommendation and compliance boundary.
+2. Map the standard into measurable functions and equipment.
+3. Detail mechanical, optical and six-axis design.
+4. Establish coordinate frames, stereo/hand-eye calibration and commanded pose math.
+5. Explain automated paths and standard algorithms.
+6. Close with uncertainty, software, safety, commissioning and deliverables.
+
+Visual route: Codex Grid. White canvas, black type, gray structural panels, restrained blue highlight. Use native PowerPoint shapes only for simple system, coordinate and process diagrams.

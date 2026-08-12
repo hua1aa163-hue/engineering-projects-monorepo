@@ -1,0 +1,18 @@
+Source: GB/T 46926—2025《轻型汽车视野辅助系统 技术要求及试验方法》, user-provided PDF.
+Primary clauses used: 5.1–5.19, 6.1.1–6.1.4, 6.2.1–6.2.20, Annex C, Annex D.
+
+Key normative thresholds extracted:
+- Dark room: visible illuminance <= 1 lx; floor reflectance <= 5%; display background reflectance <= 3%.
+- Work temperature: -40 to 85 C, image visible and no abnormal behavior.
+- Sun ingress: 60 +/- 3 C, RH < 30%, AM1.5G, 1090 +/- 100 W/m2, 15 min, divergence half-angle <= 0.5 deg, uniformity < 10% over 100 mm.
+- Noise < 40 dB(A); virtual image distance >= 2 m; look-down angle >= 1 deg; left look angle -0.5 to 0.5 deg (0 deg preferred).
+- HFOV >= 3.5 deg; VFOV >= 0.5 deg.
+- Eyebox: adjustable >= 120 x 40 mm with height travel >= 80 mm; non-adjustable >= 120 x 120 mm.
+- Ghost <= 3 arcmin; binocular disparity horizontal <= 10 arcmin, vertical <= 7.5 arcmin.
+- Static distortion horizontal/vertical <= 5%; dynamic distortion horizontal < 36 arcmin, vertical < 20 arcmin.
+- Rotation -2 to +2 deg; MTF minimum >= 0.3.
+- Stray light max luminance < 1500 cd/m2 at 50,000 +/- 5,000 lx.
+- White-field luminance >= 10,000 cd/m2; contrast >= 1000:1; luminance uniformity >= 65%; gamut coverage >= 29%.
+- AR alignment Annex C: object/line icon guidance <= 0.45 deg; navigation classified by direction/road/lane level.
+
+Engineering values for the motion system and camera system are recommended procurement specifications, not values mandated by the standard.

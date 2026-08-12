@@ -1,0 +1,9 @@
+Primary content and visual references: user-provided screenshots in this conversation, including the original Chief Tech HUD test-bench deck.
+
+External URLs already shown in the source slide and retained in speaker notes for the industry-research comparison:
+- https://www.everfine.cn/pro_desc_440.html
+- https://yanding.com/upload/products/downloads/2025/09/f_68b9782ede8e81.20112038.pdf
+- https://www.fulllightcn.com/product-item-102.html
+- https://yanding.com/product/detail?id=1960
+
+Technical content is expressed as an engineering proposal. Performance limits, acceptance thresholds, SDK availability, supplier quotation, and lead time remain items to be confirmed with the relevant owners.

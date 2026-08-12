@@ -1,0 +1,17 @@
+Source: outputs/HUD_testbench_competitive_research_2026-07-26.pptx
+Canvas: 1280 x 720 (16:9)
+Visual system: white background, black headline, cyan eyebrow/accent, blue quantitative emphasis, light-gray cards/tables, thin gray rules.
+Typography: Microsoft YaHei for Chinese; Arial for Latin numerals and English labels.
+Reusable frames:
+- Slide 1: cover frame.
+- Slide 2: three-stat executive-summary frame.
+- Slide 3: four-row methodology frame.
+- Slide 4: product profile with image.
+- Slide 5: two product images plus right-side comparison rail.
+- Slide 6: horizontal-bar chart plus three evidence cards.
+- Slides 7/8/10: full-width data tables.
+- Slide 9: four-column architecture frame.
+- Slide 11: three-step RFI/FAT timeline.
+Insertion contract: keep the 42 px side margin, header rule at y=143, page number bottom-right, and all body content above y=660. Speaker notes carry exact source URLs.
+Content-density rule: no body copy smaller than 14 pt; split tables when definitions differ instead of compressing them.
+

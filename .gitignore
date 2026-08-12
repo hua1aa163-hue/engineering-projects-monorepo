@@ -1,0 +1,102 @@
+# Local Codex/app metadata
+/.agents/
+/.codex/
+/codex-task-backup-*/
+
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.bak
+*.dump
+
+# IDE and operating-system files
+.vs/
+**/.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db
+
+# Dependencies and caches
+node_modules/
+**/node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# .NET build and publish outputs
+**/[Bb]in/
+**/[Oo]bj/
+**/[Pp]ublish/
+*.dll
+*.pdb
+*.exe
+
+# Generated reports, exports, and inspection data
+/output/
+/outputs/
+/HUD测试台架方案设计_完善版/
+/HUD测试台架方案设计_完善版.pptx
+/ppt_work_hud_20260731/
+**/output/
+**/render/
+**/rendered/
+**/qa/
+**/template-inspect/
+**/template-starter-layout/
+**/template-starter-preview/
+**/rt_hud_pdf_render/
+**/pdfs/
+*.inspect.ndjson
+*.layout.json
+
+# Binary deliverables and source/reference assets are kept outside this
+# source-only repository. Add individual files explicitly if needed later.
+*.pptx
+*.xlsx
+*.xls
+*.pdf
+*.zip
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# Scratch projects without source
+/tmp/distortion-smoke/
+
+# Keep the unique source/configuration hidden inside otherwise generated trees.
+!/tmp/hud_axis_v2/bin/
+/tmp/hud_axis_v2/bin/*
+!/tmp/hud_axis_v2/bin/UnzipCompat.cs
+!/tmp/hud_axis_v2/bin/unzip.cmd
+!/tmp/hud_research/everfine_hud3000.png
+!/tmp/hud_research/fulllight_hud.jpg
+!/tmp/hud_research/yanding_rt_hud_v3_2.png
+!/ppt_work_hud_20260731/
+/ppt_work_hud_20260731/*
+!/ppt_work_hud_20260731/package.json
+
+# Downloaded page snapshot may contain a transient CSRF token and is not source.
+/tmp/hud_research/yanding_product.html

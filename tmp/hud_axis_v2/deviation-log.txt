@@ -1,0 +1,4 @@
+Slides 5 and 10-13 reuse inherited visual grammar for new evidence types because the original 11-slide deck did not contain dedicated regulatory-filing, patent, or adjacent-benchmark frames.
+Slide 8/9 split the original single axis table into travel and precision definitions so that unlike metrics are not compared in one cell.
+Slide 15 expands the original baseline into acceptance-floor and stretch-target columns, reflecting the deeper web evidence.
+No brand color, font family, canvas, header, footer, or side-margin changes are intentional.

@@ -1,0 +1,24 @@
+Research source ledger for HUD test bench survey
+
+Primary vendor sources
+- EVERFINE HUD-3000: https://www.everfine.cn/pro_desc_440.html
+  Public parameters: VID 2–15 m; FOV 22°×16°; system movement resolution 0.01 mm and accuracy ±0.1 mm; rotation resolution 0.01° and accuracy ±0.1°; luminance accuracy ±3%; range 0.001–15000 cd/m²; luminance repeatability ±0.1%; chromaticity accuracy ±0.003; chromaticity repeatability 0.0002.
+- YANDING RT-HUD V3: https://yanding.com/product/detail?id=1960
+  Public parameters: windshield rotation 25°–70°; X ±250 mm, Y ±750 mm, Z ±80 mm. Page does not publish axis accuracy/resolution.
+- Radiant Vision Systems TT-HUD: https://www.radiantvisionsystems.com/zh-hans/node/174
+  Public positioning: a ProMetric imaging photometer/colorimeter plus TT-HUD software; camera 16 MP or higher. Product page does not present an integrated XYZ gantry or motion-axis specifications.
+- Shanghai FullLight FLTS-HUD: https://www.fulllightcn.com/product-item-102.html
+  Public positioning: automated optical/electrical test system with high-precision servo control and real-time feedback; no numeric axis travel/accuracy disclosed.
+- ColorSpace HUD solution: https://colorspace.com.cn/cs/cn/product/hud-display-solution.html
+  Public positioning: 6-axis motion platform, windshield-angle mechanism, sunlight simulator, automated analysis/reporting; no numeric axis travel/accuracy disclosed.
+
+Additional corroboration
+- Shanghai University procurement notice: https://bidding.shu.edu.cn/sy/zbkscg_detail_phone.jsp?fl=A&gglx=KCGG&lx=KCGG&wid=202211050023837056
+  Movement requirement: resolution ≤0.02 mm, accuracy ≤±0.1 mm; rotation resolution ≤0.02°, accuracy ≤±0.1°. This is a buyer requirement, not a confirmed vendor product specification.
+- Konica Minolta HUD quality solution: https://www.konicaminolta.com.cn/instruments/solution/automotive/hud/index.html
+  Explains HUD measurements and use of ProMetric/TT-HUD under SAE J1757-2 and ISO 15008.
+
+Method note
+- Research cut-off: 2026-07-26.
+- “未公开” means the reviewed public vendor page did not disclose a numeric value; it does not mean the product cannot meet a requirement.
+- Axis naming is retained as published by each vendor. Direction conventions must be confirmed against mechanical drawings before procurement.
